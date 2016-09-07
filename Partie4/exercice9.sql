@@ -1,0 +1,3 @@
+SELECT * 
+FROM Spectacles 
+WHERE date BETWEEN '2016-01-01' AND '2016-02-15';

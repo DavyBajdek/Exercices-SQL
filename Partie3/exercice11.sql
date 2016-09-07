@@ -1,0 +1,1 @@
+SELECT * FROM Clients LIMIT 5 OFFSET 0;

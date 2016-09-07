@@ -1,0 +1,2 @@
+SELECT nom FROM Clients 
+WHERE nom LIKE '%A' OR nom LIKE '%B' OR nom LIKE '%C' OR nom LIKE '%D' OR nom LIKE '%E' OR nom LIKE '%F' OR nom LIKE '%G' OR nom LIKE '%H' OR nom LIKE '%I' OR nom LIKE '%J' OR nom LIKE '%K' OR nom LIKE '%B' 

@@ -1,0 +1,1 @@
+SELECT intitule FROM Spectacles ORDER BY intitule;

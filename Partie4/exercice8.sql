@@ -1,0 +1,1 @@
+SELECT prix FROM billets WHERE prix BETWEEN 5 AND 20;

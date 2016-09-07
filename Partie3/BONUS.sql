@@ -1,0 +1,2 @@
+SELECT * FROM Clients WHERE nom='SOUCY' OR nom='LACAILLE' OR nom='MICHAUD' OR nom='TOUGAS' AND prenom='Victor' OR prenom='Aline' OR prenom='Adrien' OR prenom='Eric';
+-- Le fait d'indiquer le prénom évite qu'il y'ait deux personnes avec le même nom qui s'affiche.
