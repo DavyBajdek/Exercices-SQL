@@ -1,0 +1,4 @@
+CREATE TABLE `Salles`(
+  id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+  nombreSieges INT
+);
